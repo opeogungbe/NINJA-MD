@@ -66,8 +66,8 @@ ${translatedTafsirEnglish.text}`;
           forwardingScore: 999,  
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363419799432387@newsletter', 
-            newsletterName: 'Ninja-Tech', 
+            newsletterJid: '120363401594121803@newsletter', 
+            newsletterName: 'Chris-Tech', 
             serverMessageId: 143
           }
         }
