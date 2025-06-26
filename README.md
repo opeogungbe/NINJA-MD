@@ -162,7 +162,7 @@
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
   <a href="https://github.com/Xchristech">
-    <img src="https://github-readme-stats.vercel.app/api?username=Neggy5&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Xchristech&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
