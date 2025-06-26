@@ -161,13 +161,13 @@
 
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
-  <a href="https://github.com/Neggy5">
+  <a href="https://github.com/Xchristech">
     <img src="https://github-readme-stats.vercel.app/api?username=Neggy5&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Neggy5/ZUKO-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Xchristech/NINJA-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 ##  ⚡ CHRIS STATUS
